@@ -6,7 +6,7 @@ BOX
 
     Ubuntu 14.04.3 LTS (GNU/Linux 3.13.0-77-generic i686)
     Ruby 2.2.3p173 (2015-08-18 revision 51636) [i686-linux]
-    Rails 4.2.5
+    Rails 4.2.5 (rbenv)
     Node.js v4.2.6
     MySQL 5.5.47 (root|root)
     PostgreSQL 9.3.10 (root|root)

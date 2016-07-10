@@ -4,12 +4,12 @@ Vagrant for Ruby on Rails
 BOX
 ---
 
-    Ubuntu 14.04.3 LTS (GNU/Linux 3.13.0-77-generic i686)
-    Ruby 2.2.3p173 (2015-08-18 revision 51636) [i686-linux]
-    Rails 4.2.5 (rbenv)
-    Node.js v4.2.6
-    MySQL 5.5.47 (root|root)
-    PostgreSQL 9.3.10 (root|root)
+    Ubuntu 14.04.4 LTS (GNU/Linux 3.13.0-83-generic i686)
+    Ruby 2.3.1p112 (2016-04-26 revision 54768) [i686-linux]
+    Rails 5.0.0 (rbenv)
+    Node.js v6.2.2
+    MySQL 5.5.49 (root|231401)
+    PostgreSQL 9.5.3 (root|231401)
     
 SSH
 ---
